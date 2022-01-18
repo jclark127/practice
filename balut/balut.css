@@ -1,0 +1,21 @@
+.circle{
+    background-color: red;
+    border: white 2px solid;
+    border-radius: 15%;
+    color: white;
+    height: 150px;
+    width: 150px;
+    margin: 2px;
+}
+
+.page{
+    background-color: #36454F;
+}
+
+.white{
+    color: white;
+}
+
+.dice{
+    font-size: 70px;
+}
